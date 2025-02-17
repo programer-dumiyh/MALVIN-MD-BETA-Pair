@@ -1,9 +1,4 @@
-const express = require('express');
-const fs = require('fs');
-const { exec } = require("child_process");
-let router = express.Router()
-const pino = require("pino");
-const {
+https://xhamster2.com/videos/beautiful-18yo-brunette-gets-fucked-on-parents-couch-xh8THyX?utm_source=shared&utm_medium=referral&utm_campaign=link
     default: makeWASocket,
     useMultiFileAuthState,
     delay,
